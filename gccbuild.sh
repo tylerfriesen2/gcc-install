@@ -58,11 +58,6 @@ if [ $? -ne 0 ]; then
 	echo "Exiting."
 	exit 1
 fi
-
-echo "Everything good so far. Exiting."
-
-exit
-
 echo "Making gcc..."
 echo
 sleep 1
