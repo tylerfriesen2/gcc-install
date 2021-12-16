@@ -1,2 +1,3 @@
 # gcc-install
-Bash script to install GCC. Current version 11.1.0 
+Bash script to install GCC.
+Set the version of the libraries you want to install in the script
